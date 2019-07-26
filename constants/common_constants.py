@@ -1,0 +1,1 @@
+FLASK_CONFIG_MODULE = "config"
